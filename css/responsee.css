@@ -407,7 +407,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
 .margin > .xxl-1,.margin > .xxl-2,.margin > .xxl-five,.margin > .xxl-3,.margin > .xxl-4,.margin > .xxl-5,.margin > .xxl-6,.margin > .xxl-7,.margin > .xxl-8,.margin > .xxl-9,.margin > .xxl-10,.margin > .xxl-11,.margin > .xxl-12 {padding:0 0.625rem;}
 .margin2x > .s-1,.margin2x > .s-2,.margin2x > .s-five,.margin2x > .s-3,.margin2x > .s-4,.margin2x > .s-5,.margin2x > .s-6,.margin2x > .s-7,.margin2x > .s-8,.margin2x > .s-9,.margin2x > .s-10,.margin2x > .s-11,.margin2x > .s-12,
 .margin2x > .m-1,.margin2x > .m-2,.margin2x > .m-five,.margin2x > .m-3,.margin2x > .m-4,.margin2x > .m-5,.margin2x > .m-6,.margin2x > .m-7,.margin2x > .m-8,.margin2x > .m-9,.margin2x > .m-10,.margin2x > .m-11,.margin2x > .m-12,
-.margin2x > .l-1,.margin2x > .l-2,.margin2x > .l-five,.margin2x > .l-3,.margin2x > .l-4,.margin2x > .l-5,.margin2x > .l-6,.margin2x > .l-7,.margin2x > .l-8,.margin2x > .l-9,.margin2x > .l-10,.margin2x > .l-11,.margin2x > .l-12,
+.margin2x > .l-1,.margin2x > .l-2,.margin2x > .l-five,.margin2x > .l-3,.margin2x > .l-4,.margin2x > .l-5,.margin2x > .l-6,.margin2x > .l-7,.margin2x > .l-8,.margin2x > .l-9,.margin2x > .l-10,.margin2x > .l-11,.margin2x > .l-12,.margin2x > .l-2especial,
 .margin2x > .xl-1,.margin2x > .xl-2,.margin2x > .xl-five,.margin2x > .xl-3,.margin2x > .xl-4,.margin2x > .xl-5,.margin2x > .xl-6,.margin2x > .xl-7,.margin2x > .xl-8,.margin2x > .xl-9,.margin2x > .xl-10,.margin2x > .xl-11,.margin2x > .xl-12,
 .margin2x > .xxl-1,.margin2x > .xxl-2,.margin2x > .xxl-five,.margin2x > .xxl-3,.margin2x > .xxl-4,.margin2x > .xxl-5,.margin2x > .xxl-6,.margin2x > .xxl-7,.margin2x > .xxl-8,.margin2x > .xxl-9,.margin2x > .xxl-10,.margin2x > .xxl-11,.margin2x > .xxl-12 {padding:0 1.25rem;}
 .s-1 {width:8.3333%;}
@@ -416,7 +416,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
 .s-3 {width:25%;}
 .s-4 {width:33.3333%;}
 .s-5 {width:41.6666%;}
-.s-6 {width:10%;}
+.s-6 {width:50%;}
 .s-7 {width:58.3333%;}
 .s-8 {width:66.6666%;}
 .s-9 {width:75%;}
@@ -437,7 +437,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
 .m-11 {width:91.6666%;}
 .m-12 {width:100%;}
 .l-1 {width:8.3333%;}
-.l-2 {width:19.5%;}
+.l-2 {width:16.6666%;}
 .l-five {width:20%;}
 .l-3 {width:25%;}
 .l-4 {width:33.3333%;}
@@ -536,7 +536,8 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   .m-11 {width:91.6666%;}
   .m-12 {width:100%}
   .l-1 {width:8.3333%;}
-  .l-2 {width:19.5%;}
+  .l-2 {width:16.6666%;}
+  .l-2especial {width:19.5%;}
   /* ESTILOS */
   .l-five {width:33.333%;}
   .l-3 {width:25%;}
@@ -636,7 +637,8 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   .m-11 {width:91.6666%;}
   .m-12 {width:100%}
   .l-1 {width:8.3333%;}
-  .l-2 {width:19.5%;}
+  .l-2 {width:16.6666%;}
+  .l-2especial {width:19.5%;}
   .l-five {width:20%;}
   .l-3 {width:25%;}
   .l-4 {width:33.3333%;}
@@ -795,6 +797,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   .m-five {width:20%;}
   .m-3 {width:25%;}
   .m-4 {width:33.3333%;}
+  .m-4especial {width:19.5%;}
   .m-5 {width:41.6666%;}
   .m-6 {width:50%;}
   .m-7 {width:58.3333%;}
